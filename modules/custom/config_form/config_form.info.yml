@@ -1,0 +1,6 @@
+name: Configuration form
+type: module
+description: 'D8 cards configuration forms'
+package: Configuration sample form
+core: 8.x
+configure : config_form.settings

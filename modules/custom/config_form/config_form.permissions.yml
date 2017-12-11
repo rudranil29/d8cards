@@ -1,0 +1,4 @@
+configuration form:
+  title: 'Access configuration form'
+  description: 'd8 configuration form.'
+  restrict access: true

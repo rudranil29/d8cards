@@ -1,0 +1,7 @@
+config_form.configuration:
+  path: 'configurationform/form'
+  defaults:
+    _form: 'Drupal\config_form\Form\Configurationform'
+    _title: 'd8 configurationform'
+  requirements:
+    _permission: 'configuration form'
