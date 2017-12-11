@@ -1,0 +1,14 @@
+uuid: 155af475-9b2b-4e5d-bd53-e9bd1c53a8a7
+name: D8cards
+mail: rudranil@d8cards.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

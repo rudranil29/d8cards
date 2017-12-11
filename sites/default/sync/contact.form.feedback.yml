@@ -1,0 +1,14 @@
+uuid: 779cb0ac-2bc5-43bf-9c9d-664d883ba146
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - rudranil@d8cards.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

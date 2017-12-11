@@ -1,0 +1,10 @@
+uuid: 1b957a58-7e66-4047-a8fd-b42f079ff8ea
+langcode: en
+status: true
+dependencies: {  }
+id: import_csv
+label: import_csv
+description: ''
+source_type: csv
+module: null
+shared_configuration: null

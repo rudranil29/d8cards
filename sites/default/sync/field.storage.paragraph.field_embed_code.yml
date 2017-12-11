@@ -1,0 +1,20 @@
+uuid: 1c815beb-f8d5-43a4-a189-72af26b567cd
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+    - text
+id: paragraph.field_embed_code
+field_name: field_embed_code
+entity_type: paragraph
+type: text
+settings:
+  max_length: 2000
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
