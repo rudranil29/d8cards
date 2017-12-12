@@ -1,0 +1,8 @@
+uuid: 9981b7bf-a579-45cc-a197-6695c605e504
+langcode: en
+status: true
+dependencies: {  }
+id: stock_exchange_rate_card
+label: stock_exchange_rate_card
+revision: 0
+description: ''
