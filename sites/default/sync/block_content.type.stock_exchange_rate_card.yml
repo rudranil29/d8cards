@@ -1,0 +1,8 @@
+uuid: 0bb41993-8139-4bf4-83e2-98000ab6cf20
+langcode: en
+status: true
+dependencies: {  }
+id: stock_exchange_rate_card
+label: 'Stock Exchange Rate Card'
+revision: 0
+description: ''

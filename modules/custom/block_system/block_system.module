@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @file
+ * Contains block_system.module.
+ */
+
+/**
+ * Implements hook_cron().
+ */
+function block_system_cron() {
+
+  $queue_factory = \Drupal::service('queue');
+  $queue = $queue_factory->get('block_system');
+  if (!$queue->numberOfItems()) {
+    $storage = \Drupal::service('entity.manager')->getStorage('block_content');
+    $id = array_keys($storage->loadByProperties(['type' => 'stock_exchange_rate_card']));
+    foreach ($ids as $id) {
+      $queue->createItem($id);
+    }
+  }
+}

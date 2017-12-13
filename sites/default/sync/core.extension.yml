@@ -2,15 +2,17 @@ module:
   automated_cron: 0
   block: 0
   block_content: 0
+  block_system: 0
   breakpoint: 0
   ckeditor: 0
   color: 0
   comment: 0
   config: 0
-  config_form: 0
   contact: 0
+  contentimport: 0
   contextual: 0
   datetime: 0
+  day4: 0
   dblog: 0
   devel: 0
   dynamic_page_cache: 0
